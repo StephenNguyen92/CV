@@ -1,0 +1,37 @@
+body {
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+}
+
+h1 {
+    text-align: center;
+}
+
+fieldset {
+    width: 21cm;
+    min-height: 29.7cm;
+    padding: 2cm;
+    margin: 1cm auto;
+    border: 1px #D3D3D3 solid;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+legend {
+    font-size: 12pt "Tahoma";
+    font-weight: bolder;
+}
+
+p {
+    font-size: 14pt;
+}
+
+img {
+    float: right;
+    width: 150px;
+    height: 175px;
+}
+
